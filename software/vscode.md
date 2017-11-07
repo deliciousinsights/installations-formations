@@ -75,7 +75,7 @@ Voici comment :
 
 Tu devrais voir s’ouvrir un terminal de tâche en bas de la fenêtre de l’éditeur, et pouvoir suivre le déroulement des réglages.
 
-Après s’être assuré que toutes les extensions recommandées sont installées, le système te demandera, dans le terminal de tâche, si tu souhaites fusionner les réglages recommandés dans tes paramètres généraux. Cette étape est optionnelle, et si tu as déjà des réglages aux petits oignons, tu peux répondre Non.  Dans le cas contraire, le programme vérifie si tu n’aurais pas déjà fait une telle fusion, par mesure de sécurité. Si ce n’est pas le cas, où que tu confirmes tout de même, il ajoute nos réglages recommandés, commentaires compris, à la fin de tes propres réglages utilisateur.
+Après s’être assuré que toutes les extensions recommandées sont installées, le système te demandera, dans le terminal de tâche, si tu souhaites fusionner les réglages recommandés dans tes paramètres généraux. Cette étape est optionnelle, et si tu as déjà des réglages aux petits oignons, tu peux répondre Non.  Dans le cas contraire, le programme vérifie si tu n’aurais pas déjà fait une telle fusion, par mesure de sécurité. Si ce n’est pas le cas, ou que tu confirmes tout de même, il ajoute nos réglages recommandés, commentaires compris, à la fin de tes propres réglages utilisateur.
 
 En bout de processus, les paramètres et extensions indiqués ci-dessous seront installés et actifs d’office : tu n’auras plus qu’à redémarrer VS Code.
 
