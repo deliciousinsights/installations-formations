@@ -6,6 +6,12 @@
 
 On s’en sert pour la persistance de nos données dans la [formation Node.js](../trainings/node.md).
 
+Aller directement aux instructions pour…
+
+* [Windows](#sur-windows)
+* [OSX](#sur-osx)
+* [Linux](#sur-linux)
+
 ## Sur Windows
 
 [Le guide officiel](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-windows/) est très bien fait, mais en voici le résumé.
