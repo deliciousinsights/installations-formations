@@ -15,6 +15,7 @@ const config = {
   favicon: 'img/favicon.ico',
   organizationName: 'deliciousinsights', // Usually your GitHub org/user name.
   projectName: 'installations-formations', // Usually your repo name.
+  i18n: { defaultLocale: 'fr', locales: ['fr'] },
 
   presets: [
     [
@@ -54,11 +55,6 @@ const config = {
             docId: 'software/git',
             position: 'left',
             label: 'Logiciels',
-          },
-          {
-            href: 'https://github.com/deliciousinsights/installations-formations',
-            label: 'GitHub',
-            position: 'right',
           },
         ],
       },
