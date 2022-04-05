@@ -1,6 +1,5 @@
 # Tâches en attente
 
-- [ ] Logiciels › MongoDB
 - [ ] Accueil / Layout (et styles)
 - [ ] [Déploiements Netlify](https://docusaurus.io/docs/deployment#deploying-to-netlify) (recette et prod)
 - [ ] Logiciels › Windows Terminal (new)
