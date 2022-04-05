@@ -12,6 +12,8 @@ C’est un **gestionnaire de sources**, un peu comme Subversion, mais en 300 00
 :::tip Prononciation
 
 Ça se prononce « guitte », pas « jitte », « djitte » ou « gé-i-té » : c’est un _G dur_. Juste pour ne pas t’attirer le regard courroucé (ou dépité, c’est selon) des formateurs :wink:.
+
+D'ailleurs, ce n'est pas un acronyme et donc ça ne s'écrit **pas** en majuscules (~~GIT~~) mais capitalisé (Git).
 :::
 
 ## Version minimale requise
