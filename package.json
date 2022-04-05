@@ -1,6 +1,6 @@
 {
-  "name": "installations-v-2",
-  "version": "0.0.0",
+  "name": "installations-v2",
+  "version": "2.0.0",
   "private": true,
   "scripts": {
     "docusaurus": "docusaurus",
