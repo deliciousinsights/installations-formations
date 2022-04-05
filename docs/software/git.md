@@ -26,7 +26,9 @@ Aller directement aux instructions pour…
 - [OSX](#sur-osx)
 - [Linux (ou WSL)](#sur-linux)
 
-## Sur Windows
+## Sur Windows (hors WSL)
+
+Déjà, on te conseille d'utiliser [WSL](/docs/software/wsl) pour toute ta partie dev qui ne serait pas "pure Windows" sur Windows. Mais si tu as besoin de Git en contexte Windows classique, voici comment faire.
 
 Depuis l’automne 2015, Git for Windows est enfin au taquet (à deux-trois semaines près…) par rapport à ses confrères OSX et Linux… Ouf !
 
@@ -79,7 +81,7 @@ brew install git # ou brew upgrade git, si tu avais déjà Git
 
 Il ne te reste plus qu’à [configurer ton Git correctement](#finaliser-ta-configuration-git)…
 
-## Sur Linux
+## Sur Linux (dont WSL)
 
 Comme toujours avec Linux, **ça dépend de ta distro**. L’immense majorité des utilisateurs de Linux dans nos formations utilisent une variante de Debian (Debian même, Ubuntu ou Mint).
 
