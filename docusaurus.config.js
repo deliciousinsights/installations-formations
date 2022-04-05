@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula')
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Installations Delicious Insights',
-  tagline: 'Histoire d’arriver préparé·e',
+  tagline: 'Histoire d’arriver préparé·e…',
   url: 'https://installations.delicious-insights.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -39,10 +39,10 @@ const config = {
     ({
       navbar: {
         title: 'Installations',
-        logo: {
-          alt: 'Installations Delicious Insights',
-          src: 'img/logo.svg',
-        },
+        // logo: {
+        //   alt: 'Installations Delicious Insights',
+        //   src: 'img/logo.svg',
+        // },
         items: [
           {
             type: 'doc',
