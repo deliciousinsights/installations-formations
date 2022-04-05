@@ -28,7 +28,7 @@ Aller directement aux instructions pour…
 
 ## Sur Windows (hors WSL)
 
-Déjà, on te conseille d'utiliser [WSL](/docs/software/wsl) pour toute ta partie dev qui ne serait pas "pure Windows" sur Windows. Mais si tu as besoin de Git en contexte Windows classique, voici comment faire.
+Déjà, on te conseille d'utiliser [WSL](https://docs.microsoft.com/fr-fr/windows/wsl/install) pour toute ta partie dev qui ne serait pas "pure Windows" sur Windows. Mais si tu as besoin de Git en contexte Windows classique, voici comment faire.
 
 Depuis l’automne 2015, Git for Windows est enfin au taquet (à deux-trois semaines près…) par rapport à ses confrères OSX et Linux… Ouf !
 
@@ -217,7 +217,7 @@ Hélas, la configuration globale par défaut de Git laisse beaucoup à désirer.
 
 ### Comment configurer tout ça vite fait ?
 
-Le plus simple consiste à installer et configurer **[Oh My Posh](https://ohmyposh.dev/)** (v3 ou ultérieure), quel que soit ton shell : Windows (PowerShell ou Cmd, dans [Windows Terminal](/docs/software/windows-terminal)), OSX (quel que soit le shell) ou Linux (idem).
+Le plus simple consiste à installer et configurer **[Oh My Posh](https://ohmyposh.dev/)** (v3 ou ultérieure), quel que soit ton shell : Windows (PowerShell ou Cmd, dans [Windows Terminal](https://docs.microsoft.com/fr-fr/windows/terminal/tutorials/custom-prompt-setup)), OSX (quel que soit le shell) ou Linux (idem).
 
 Nous maintenons par ailleurs une **[configuration globale de référence](https://gist.github.com/tdd/470582)**.
 

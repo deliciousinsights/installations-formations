@@ -9,7 +9,7 @@ title: MongoDB
 
 [MongoDB](https://www.mongodb.com/) est la **base de données [NoSQL](https://www.mongodb.com/nosql-explained)** [la plus populaire du monde](https://db-engines.com/en/ranking).
 
-On s’en sert pour la persistance de nos données dans la [formation Node.js](/docs/trainings/node).
+On s’en sert pour la persistance de nos données dans la [formation Node.js](/docs/courses/node).
 
 Alors, comment l'installer ?
 
