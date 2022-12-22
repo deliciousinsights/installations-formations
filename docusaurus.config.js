@@ -46,7 +46,7 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'courses/wam',
+            docId: 'courses/pwa',
             position: 'left',
             label: 'Formations',
           },
@@ -66,7 +66,7 @@ const config = {
             items: [
               {
                 label: 'Formations',
-                to: '/docs/courses/wam',
+                to: '/docs/courses/pwa',
               },
               {
                 label: 'Logiciels',

@@ -2,9 +2,9 @@
 sidebar_position: 1
 ---
 
-# Web Apps Modernes
+# React PWA
 
-Ah, notre **best-seller**… [Un vrai programme de rêve](https://delicious-insights.com/fr/formations/web-app-modernes/#program)…
+Ah, notre **best-seller**… [Un vrai programme de rêve](https://delicious-insights.com/fr/formations/react-pwa/#program)…
 
 ## Installations obligatoires
 

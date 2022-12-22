@@ -6,7 +6,7 @@ import styles from './styles.module.css'
 const FeatureList = [
   {
     title: 'Par formation',
-    link: '/docs/courses/git-total',
+    link: '/docs/courses/pwa',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>

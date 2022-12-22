@@ -66,7 +66,7 @@ Après quoi, `code` devrait marcher.
 
 Plusieurs de nos formations utilisent une **appli fil rouge** dont nous vous fournissons le dépôt. Celui-ci comprend (dans le dossier racine spécial `.vscode`) des recommandations d'extensions, réglages de niveau _workspace_, définitions de tâches et de configurations débogueur qui seront automatiquement exploitées par VSCode lorsque tu ouvres le dossier comme une racine de _workspace_.
 
-Si tu veux prendre de l'avance (ou anticiper un proxy tatillon au boulot), tu peux clôner et ouvrir comme dossier dans VSCode le [dépôt pour la formation Node](https://github.com/deliciousinsights/toptunez) ou [celui pour la formation Web Apps Modernes](https://github.com/deliciousinsights/goal-tracker/), par exemple.
+Si tu veux prendre de l'avance (ou anticiper un proxy tatillon au boulot), tu peux clôner et ouvrir comme dossier dans VSCode le [dépôt pour la formation Node](https://github.com/deliciousinsights/toptunez) ou [celui pour la formation React PWA](https://github.com/deliciousinsights/goal-tracker/), par exemple.
 
 Mais tu peux aussi attendre la formation pour le récupérer et tout configurer à la volée !
 
