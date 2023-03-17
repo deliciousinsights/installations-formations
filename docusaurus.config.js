@@ -91,11 +91,15 @@ const config = {
               },
               {
                 label: 'Chaîne YouTube',
-                href: 'https://youtube/c/DeliciousInsights',
+                href: 'https://youtube/@DeliciousInsights',
               },
               {
                 label: 'Twitter',
                 href: 'https://twitter.com/DelicioInsights',
+              },
+              {
+                label: 'GitHub',
+                href: 'https://github.com/deliciousinsights',
               },
             ],
           },
@@ -103,12 +107,16 @@ const config = {
             title: 'Explorer',
             items: [
               {
-                label: 'GitHub',
-                href: 'https://github.com/deliciousinsights',
+                label: 'Services',
+                href: 'https://delicious-insights.com/fr/services/',
               },
               {
                 label: 'Articles',
-                href: 'https://delicious-insights.com/fr/archives/#articles',
+                href: 'https://delicious-insights.com/fr/articles-et-tutos/',
+              },
+              {
+                label: 'Cours vidéo',
+                href: 'https://delicious-insights.com/fr/cours-videos/',
               },
               {
                 label: 'Conférences / Talks / Meetups',
